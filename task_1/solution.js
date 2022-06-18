@@ -16,6 +16,8 @@ function addInCartMessage(title, price) {
     // новый комментарий b fffffff
     // больше комментариев
     // еще больше
+    // hihih 
+    //ddd
     // Конец решения задания №1.1.
 
     return message;
