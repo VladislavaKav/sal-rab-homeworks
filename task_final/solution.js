@@ -47,5 +47,6 @@
     data.order.sum = sum;
     data.client = name + " " + phone;
     let jsonData = JSON.stringify({data: data});
-    return jsonData;
+    
+    return jsonData
 }
